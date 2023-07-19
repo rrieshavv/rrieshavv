@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rishav.</h1>
 <h3 align="center">A passionate coder from Nepal.</h3>
 
-<img align="right" alt="Dots" width="400" src="https://thumbs.gfycat.com/GiganticDazzlingAxolotl-max-1mb.gif">
+<img align="right" alt="Dots" width="400" src="./JM9R.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrieshavv&label=Profile%20views&color=0e75b6&style=flat" alt="rrieshavv" /> </p>
 
