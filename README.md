@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/rrieshavv)
+
 
 <h1 align="center">Hi 👋, I'm Rishav.</h1>
 <h3 align="center">A passionate coder from Nepal.</h3>
 
-<img align="right" alt="Dots" width="400" src="https://i.gifer.com/Jp7G.gif">
+<img align="right" alt="Dots" width="400" src="https://thumbs.gfycat.com/GiganticDazzlingAxolotl-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrieshavv&label=Profile%20views&color=0e75b6&style=flat" alt="rrieshavv" /> </p>
 
