@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rishav.</h1>
-<h3 align="center">A passionate coder from Nepal.</h3>
+<h3 align="center">A coder.</h3>
 
 <img align="right" alt="Dots" width="400" src="./JM9R.gif">
 
