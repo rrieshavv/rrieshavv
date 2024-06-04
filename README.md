@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavkarna.com.np/DropBox/HelloPic.png" align="center" alt="Hello Thumbnail" style="width: 200px; height: 200px;" />
-</div>  
-  
-
 ### <div align="center">I'm Rishav, a software engineer👨‍💻 with professional experience since 2023 🚀</div>  
   
 
@@ -76,26 +71,3 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrieshavv&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-
-### Profile Views  
-![Profile views counter](https://komarev.com/ghpvc/?username=rrieshavv&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
