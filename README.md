@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavkarna.com.np/DropBox/HelloPic.png" align="center" style="width: 200px; height: 200px;" />
+<img src="https://rishavkarna.com.np/DropBox/HelloPic.png" align="center" alt="Hello Thumbnail" style="width: 200px; height: 200px;" />
 </div>  
   
 
