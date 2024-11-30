@@ -2,9 +2,8 @@
   
 
 - 🔭 I’m working on .NET since 2023.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚒️ Interested in FinTech.
+- ⚡ Fun fact: I use tabs over spaces.
   
 
 <br/>  
