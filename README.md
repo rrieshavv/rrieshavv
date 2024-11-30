@@ -1,10 +1,7 @@
-### <div align="center">I'm Rishav, a software engineer👨‍💻 with professional experience since 2023 🚀</div>  
+### <div align="center">I'm Rishav, a software engineer👨‍💻 with expertise in .NET  🚀</div>  
   
 
-- 🔭 I’m currently working on .NET Framework.  
-  
-
-- ❓ Ask me about anything related to .NET and related technologies.  
+- 🔭 I’m working on .NET since 2023.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
