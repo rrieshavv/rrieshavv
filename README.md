@@ -1,7 +1,7 @@
 ### <div align="center">I'm Rishav, a software engineer👨‍💻 with expertise in .NET  🚀</div>  
   
 
-- 🔭 I’m working on .NET since 2023.  
+- 🔭 I’m working on commercial projects with .NET since 2023.  
 - ⚒️ Interested in FinTech.
 - ⚡ Fun fact: I use tabs over spaces.
   
