@@ -5,7 +5,7 @@
 - ⚒️ Interested in FinTech.
 - ⚡ Fun fact: I use tabs over spaces.
 
-1% faith, 99% faith.
+1% chance, 99% faith.
 I fell in love with the hustle, I fell in love with the chase.
 
 <br/>  
