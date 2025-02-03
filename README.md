@@ -4,7 +4,9 @@
 - 🔭 I’m working on commercial projects with .NET since 2023.  
 - ⚒️ Interested in FinTech.
 - ⚡ Fun fact: I use tabs over spaces.
-  
+
+1% faith, 99% faith.
+I fell in love with the hustle, I fell in love with the chase.
 
 <br/>  
 
