@@ -1,7 +1,7 @@
 ### <div align="center">I'm Rishav, a software engineer👨‍💻 with expertise in .NET  🚀</div>  
   
 
-- 🔭 I’m working on toop-tier projects since 2023.  
+- 🔭 Working on top-tier projects since 2023.  
 
 <br/>  
 
